@@ -1,1 +1,1 @@
-from quay.io/prometheus-operator/prometheus-config-reloader:v0.47.0
+from quay.io/kiali/kiali:v1.45
